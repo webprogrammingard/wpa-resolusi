@@ -2,6 +2,10 @@ RENCANA KONTEN WPU
 - html
  *E67
  *framework
+  ^ view
+  ^ react
 - struktur data dasar
+- PHP frameworks
+  ^ laravel
 - css
 - javascript
