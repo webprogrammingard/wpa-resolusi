@@ -1,7 +1,8 @@
 RENCANA KONTEN WPU
 - html
  *E67
- *framework
-- struktur data dasar
+ *framework javascript
+  ^ angular
+  ^ react
 - css
 - javascript
