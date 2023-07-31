@@ -1,2 +1,2 @@
 # wpa-resolusi
-Rrpository untuk menyimpan WPA kedepannya
+ini adalah repo pertama saya
