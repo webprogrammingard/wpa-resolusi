@@ -2,5 +2,6 @@ RENCANA KONTEN WPU
 - html
  *E67
  *framework
+- struktur data dasar
 - css
 - javascript
